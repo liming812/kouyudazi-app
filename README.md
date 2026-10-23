@@ -2,15 +2,6 @@
 
 AI 英语口语陪练桌面应用。按住说话和 AI 对话，逐句朗读中文释义，点词收藏进个人词库，AI 自动带你复习重点词。
 
-## 下载
-
-到 [Releases](https://github.com/liming812/kouyudazi-app/releases) 下载最新版本：
-
-| 系统 | 文件 | 说明 |
-|---|---|---|
-| macOS（Apple 芯片 M1/M2/M3/M4） | `kouyudazi-x.x.x-mac-arm64.dmg` | 首次打开需右键→打开，详见安装说明 |
-| Windows 10/11（64 位） | `kouyudazi-x.x.x-win-x64.exe` | 首次运行 SmartScreen 点「仍要运行」 |
-
 ## 使用前提
 
 - 千问 AI 平台 Token Plan 的 API Key（[platform.qianwenai.com/pricing/token-plan](https://platform.qianwenai.com/pricing/token-plan) 购买），首次启动在「系统设置 → 供应商设置」填入
@@ -42,4 +33,4 @@ AI 英语口语陪练桌面应用。按住说话和 AI 对话，逐句朗读中�
 
 ## 状态
 
-测试阶段。遇到问题请在 Issues 反馈。
+内测阶段，安装包暂未公开发布。遇到问题请在 Issues 反馈。
